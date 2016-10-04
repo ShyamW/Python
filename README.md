@@ -47,6 +47,14 @@ __Properties__
 
 ###### View the algorithm in [action][merge-toptal]
 
+### Heap
+![alt text][quick-image]
+
+Sorting Algorithm that uses a heap (binary tree) to sort.
+
+__Properties__
+* Average case n log n
+
 ### Quick
 ![alt text][quick-image]
 
